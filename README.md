@@ -9,3 +9,4 @@ It contains the following:
 6)Add, Delete, Update Navigation Bar Items
 
 The code is implemented using sessions and takes cookies.
+Download the zip file to use. Run using WAMP or XAMPP.
